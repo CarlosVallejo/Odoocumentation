@@ -6,15 +6,19 @@
 Welcome to Odoocumentation's documentation!
 ===========================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+.. include:: /README.md
 
+
+*************
+Python Basics
+*************
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Python Basics
+    :name: Basics
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
